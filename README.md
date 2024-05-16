@@ -1,2 +1,2 @@
 # WeatherApp_UsingLaravel
-Weather Forecast that uses Laravel and an API integration
+The application is a weather app developed with Laravel, leveraging the OpenWeatherMap API to provide current weather conditions for cities worldwide.The OpenWeatherMap API supplies weather data globally, offering information such as temperature, humidity, wind speed, and weather conditions, accessible via endpoints based on geographic coordinates, city names, ZIP codes, and more. Users input a city name through a form, triggering an API request to fetch relevant weather data. The app then presents the retrieved information, including temperature, weather description, and an icon representing current conditions, offering users a convenient way to check weather updates.

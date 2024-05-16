@@ -156,7 +156,7 @@
 <body>
 
 <div class="container">
-    <h1 class="text-center">Weather App</h1>
+    <h1 class="text-center">Weather Forecast</h1>
     <div class="search-card" id="searchCard">
         <div class="card-body">
             <form id="weatherForm">
